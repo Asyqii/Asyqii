@@ -11,7 +11,7 @@ An independent Front-end Developer and Android Developer who loves to create and
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Kotlin" width="21px" src="https://github.com/user-attachments/assets/bd2fe83a-d763-4169-bd13-69b44f87fd49" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Hapi" title="Kotlin" width="21px" src="https://github.com/user-attachments/assets/bd2fe83a-d763-4169-bd13-69b44f87fd49" /></a>
   <br>
   <br>
   
