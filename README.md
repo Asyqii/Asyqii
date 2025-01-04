@@ -17,7 +17,7 @@ An independent Front-end Developer and Android Developer who loves to create and
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/Asyqii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asyqii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asyqii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
