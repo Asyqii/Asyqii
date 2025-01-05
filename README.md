@@ -25,5 +25,5 @@ An independent Front-end Developer and Android Developer who loves to create and
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/ahmadsuyutisyauqi">LinkedIn</a>
-- ahmadsuyutisyauqi@dicoding.com
+- ahmadsuyutisyauqi@gmail.com
 - <a href="">Instagram</a>
